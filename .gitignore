@@ -1,2 +1,4 @@
 
 /comienzo_juego/obj
+*.o
+*.layout

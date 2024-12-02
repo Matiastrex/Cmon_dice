@@ -1,0 +1,13 @@
+Jugador 1
+V|V|0|3
+VN|VN|0|3
+VNV|RAV|0|0
+Puntos obtenidos: 6
+
+Jugador 2
+-|-|0|0
+Puntos obtenidos: 0
+
+================ GANADORES ===============
+-------NOMBRE JUGADOR | PUNTUACION--------
+Juan|6
